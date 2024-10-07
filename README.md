@@ -2,7 +2,7 @@
 
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF66B2&center=true&random=false&width=435&lines=Karolainy+De+Sousa+Arantes.;Future+Data+scientist⭐)
 
-## Hello Word, i'm a student of Data science
+## Hello Word, i'm a Data Science student
 I study every day to be a data scientist, I only talk about it, I just think about it, I live for it. I really love data more than anything.
 
 ## 🏆 professional experiences:
