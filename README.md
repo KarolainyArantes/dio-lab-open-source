@@ -3,7 +3,6 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF66B2&center=true&random=false&width=435&lines=Karolainy+De+Sousa+Arantes.;Future+Data+scientist⭐)
 
 ## Hello World, i'm a Data Science student
-I study every day to be a data scientist, I only talk about it, I just think about it, I live for it. I really love data more than anything.
 
 ## 🏆 professional experiences:
 I currently work as a production manager, leading a team of 15 seamstresses and I love making clothes so much. I have been in charge of 2 teams and in the currently team all the seamstresses were trained by me from scratch, I appreciate people management and I always  want to work as a team.
