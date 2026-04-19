@@ -5,9 +5,9 @@
 ### Hello World, i'm a data science student
 
 ## 🏆 professional experiences:
-I currently work as a production manager, leading a team of 15 seamstresses and I love making clothes so much. I have been in charge of 2 teams and in the currently team all the seamstresses were trained by me from scratch, I appreciate people management and I always  want to work as a team.
+I'm a data analyst ll. at
  ## 📚 Learning :
-
+Data analyst with 1+ years in hospital settings, managing data quality, governance, and building key dashboards for decision-making
 * languages
 
   
