@@ -5,9 +5,8 @@
 ### Hello World, i'm a data science student
 
 ## 🏆 professional experiences:
-I'm a data analyst ll. at
- ## 📚 Learning :
 Data analyst with 1+ years in hospital settings, managing data quality, governance, and building key dashboards for decision-making
+ ## 📚 Learning :
 * languages
 
   
